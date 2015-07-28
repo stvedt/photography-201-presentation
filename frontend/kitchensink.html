@@ -1,0 +1,109 @@
+include "includes/header.html"
+
+<body>
+    <div class="reveal">
+        <div class="slides">
+
+            <!-- Regular slides at the beginning, using section, h1,h2,h3,h4,h5 and div, etc -->
+            <section data-background="#000" data-background-transition="slide">
+                <video width="960" height="720" autoplay>
+                    <source src="images/spies-bolt.mov" type="video/mp4">
+                </video>
+            </section>
+
+            <section>
+                <h3>Spies kbsU</h3>
+            </section>
+
+            <!-- Example markdown content inside of a section container with vertical and horizontal slides -->
+            <section data-markdown data-separator="^\n---\n$" data-vertical="^\n--\n$">
+                <script type="text/template">
+                    <!-- .slide: data-background="http://i.imgur.com/F7rBHZa.jpg" -->
+                    ## Slide 1.1
+
+                    Some content in the slide under the heading
+
+                    !["stapler"](http://i.imgur.com/eJqeEtl.gif)
+
+                    --
+
+                    ## Slide 1.2
+
+                    ### below 1.1
+
+                    A sample image in the markdown language
+
+                    ---
+
+                    ## Slide 2
+
+                    ### Another section slide
+
+                    !["my dog"](http://i.imgur.com/WXh3jBj.gif )
+
+                </script>
+            </section>
+
+            <section data-markdown="markdown/class1.md" data-separator="^\n---\n$" data-vertical="^\n--\n$" data-charset="iso-8859-15">
+            </section>
+
+            <!-- Individual Slide with no data separators -->
+            <!-- No "extra" slides, since there are no separators defined (so they'll become horizontal rulers) -->
+            <section data-markdown>
+                <script type="text/template">
+                    A
+
+                    ---
+
+                    B
+
+                    ---
+
+                    C
+                </script>
+            </section>
+
+            <!-- Slide attributes -->
+            <section data-markdown>
+                <script type="text/template">
+                    <!-- .slide: data-background="#000000" -->
+                    ## Slide attributes
+                </script>
+            </section>
+
+            <!-- Element attributes, fragments fade in (and can be further customized) -->
+            <section data-markdown>
+                <script type="text/template">
+                    ## Element attributes
+                    - Item 1 <!-- .element: class="fragment" data-fragment-index="1" -->
+                    - Item 2 <!-- .element: class="fragment" data-fragment-index="2" -->
+                    - [More...](https://github.com/hakimel/reveal.js#fragments) <!-- .element: class="fragment" data-fragment-index="3" -->
+                </script>
+            </section>
+
+            <!-- Code -->
+            <section data-markdown>
+                <script type="text/template">
+                    ### Code Sample
+
+                    ```python
+                    words = ['cat', 'window', 'defenestrate']
+                    for w in words:
+                        print w, len(w)
+                    ```
+                </script>
+            </section>
+
+            <!-- inner link to another slide -->
+            <section>
+                <a href="#/1/1">Return to the beginning.</a>
+            </section>
+
+        </div>
+    </div>
+
+</body>
+
+include "includes/footer.html"
+
+

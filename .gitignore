@@ -1,0 +1,16 @@
+.DS_Store
+
+# Nodejs Modules Folder
+/node_modules
+
+# We don want to commit builds
+/build
+/frontend/_compiled_
+.sass-cache/
+
+# Fabricator Garbage
+*.pyc
+
+#ide files
+/.idea
+*.swp

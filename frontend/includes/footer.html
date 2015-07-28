@@ -1,0 +1,57 @@
+<script src="vendor/jquery-1.10.2.min.js"></script>
+<script src="vendor/head/head.min.js"></script>
+<script src="vendor/bootstrap.min.js"></script>
+
+<script src="vendor/reveal/reveal.min.js"></script>
+<script src="vendor/reveal/plugins/markdown/marked.js"></script>
+<script src="vendor/reveal/plugins/markdown/markdown.js"></script>
+<script src="vendor/reveal/plugins/notes/notes.js"></script>
+<script src="vendor/reveal/plugins/highlight/highlight.js"></script>
+<!--
+<script src="vendor/reveal/plugins/leap/leap.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/socket.io/0.9.16/socket.io.min.js"></script>
+<script src="vendor/reveal/plugins/multiplex/master.js"></script>
+<script src="vendor/reveal/plugins/multiplex/client.js"></script>
+-->
+
+<script>
+
+  Reveal.initialize({
+    transition: 'concave',
+    controls: true,
+    history: true,
+    
+    // Display a presentation progress bar
+    progress: true
+    // multiplex: {
+    //     // Example values. To generate your own, see the socket.io server instructions.
+    //     secret: null, // null so the clients do not have control of the master presentation
+    //     id: '1ea875674b17ca76', // id, obtained from socket.io server
+    //     url: 'revealjs.jit.su:80' // Location of socket.io server
+    // }
+/*
+    slideNumber: true,
+    viewDistance: 5,
+    
+*/
+    // leap: {
+    //     naturalSwipe   : false,    // Invert swipe gestures
+    //     pointerOpacity : 0.0,      // Set pointer opacity to 0.5
+    //     pointerColor   : '#d80000' // Red pointer
+    // }
+  });
+
+</script>
+
+<script>
+  if( window.location.search.match( /print-pdf/gi ) ) {
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = '/vendor/reveal/print/pdf.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  }
+</script>
+<script src="js/index.js"></script>
+
+</html>
