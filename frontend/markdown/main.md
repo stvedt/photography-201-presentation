@@ -19,6 +19,9 @@ Even looking through the viewfind more might be in frame than your brain is focu
 
 ![""](images/obscura.jpg)
 
+- Zoom
+- Prime
+
 --
 
 ### Field of View
