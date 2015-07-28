@@ -13,23 +13,84 @@ Camera is objective
 
 Even looking through the viewfind more might be in frame than your brain is focusing on.
 
---
+---
 
-### Lenses
+## Lenses
 
 ![""](images/obscura.jpg)
 
 --
 
-### Pinhole Camera
+### Field of View
 
-![""](images/pinhole.jpg)
+Measure in Focal Length
+
+- Normal
+- Wide
+- Telephoto
 
 --
 
-### Single-Lens Reflex (SLR)
+### Image Sensor and Focal Length
 
-![""](images/slr.gif)
+- 35MM Film is the base 70 years)
+- Cropped Sensor
+
+--
+
+### Wide
+
+- Distortion at edges
+- Fisheye
+- Rectilinear
+
+
+--
+
+### Telephoto
+
+- Introduces Handheld shake,
+- Faster Shutter Speed
+
+--
+
+### Stabilization
+
+- Optical Stabilization (Uses Battery)
+- Digital Sucks
+
+--
+
+## Characteristic
+
+- Compression of space
+- Distortion
+
+
+---
+
+## Depth of Field
+
+--
+## Speed 
+
+Apeture referred to as speed
+
+- faster shutter speed due to letting more light in.
+
+--
+
+### Sensor Size
+
+- Smaller Sensor Wider Depth of Field (more in focus)
+- Full Frame Shallower
+
+--
+
+### Focal Length
+
+Perceived Depth of Field
+Zoomed in = Larger background more apparent that it's out of focus
 
 ---
 
@@ -95,110 +156,25 @@ Even looking through the viewfind more might be in frame than your brain is focu
 --
 
 ## Practice
- 
+
+- Black and White (Tone, Line and Form)
+- Have a Task at Hand (An Assignment)
+- Back to basics (Geometry, Light as Subject)
+- Perfect Practice Makes Perfect
+- Look at work of other photographers
 
 ---
 
 ## Geometry
 
-
-
---
-
-### Shutter Speed
-
-The shutter controls how long the film/digital sensor is exposed to light.
-
-- Flap on pinhole camera
-- Curtains on an SLR
-- Full stops: 1/500s, 1/250s, etc.
-
-![""](images/shutter-edit.gif)
-
---
-
-### Aperture
-
-The Aperture controls how much light passes through the lens.
-
-- Adjustable in the lens
-- Size of the hole which light travels through.
-- Measure in F-stops
-- Full stops: f/2.8, f/5, f/5.6, f/8, f/11, f/16, f22
-
---
-
-![""](images/aperture.jpg)
-
---
-
-### Sensor/Film Sensitivity
-
-
-Different mediums have varying sensitivity to light (Measured with ISO & Film Speed).
-
-- Higher sensitivy = more light
-- Risk of noise/grain
-
----
-
-## In Practice
-
---
-
-### Through the Viewfinder
-
-- Exposure Settings
-- Light Meter
-- Focus Points
-- Aperture is always wide open. (Depth of Field Preview Button)
-
-![""](images/viewfinder-final.jpg)
-
---
-
-### Pressing the Shutter Button
-
-- Half Press = Light Meter & Focus
-- Full Press = Take Image
-
---
-
-### Metering
-
-Using the camera to read the amount of light.
-
-- Evaluative
-- Spot
-
---
-
-### Focusing
-
-- Aperture dertermines Depth of Field (DoF)
-- Person decides where to focus the camera
-
---
-
-### Manual Mode
-
-Set all exposure settings manually.
-
---
-
-### Priority Modes
-
-Set one point in exposure triangle.
-
-- Shutter Speed
-- Aperture
-- Exposure Compensation
-
---
-
-### Exposure Compensation
-
-Increase or decrease the exposure from light meter.
+- Lines
+- Shapes
+- Repetition
+- Rule of Thirds
+- Perspective
+- Symmetry
+- Focal length, position and depth
+- Intersections
 
 ---
 
