@@ -69,7 +69,10 @@ Measure in Focal Length
 
 ---
 
-## Depth of Field
+## Depth of Field/Aperture
+
+- Blurring
+- Sharpness
 
 --
 ## Speed 
@@ -77,6 +80,8 @@ Measure in Focal Length
 Apeture referred to as speed
 
 - faster shutter speed due to letting more light in.
+
+- High aperture f/22 can introduce softening/defractions
 
 --
 
