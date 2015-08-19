@@ -5,19 +5,13 @@
 
 ---
 
-## Looking vs. Seeing
+## Balance of Technical and Creative Decisions
 
-Brain interprets most of our environment and is subjective
-
-Camera is objective
-
-Even looking through the viewfind more might be in frame than your brain is focusing on.
+Technical Understanding needed to control creative decisions
 
 ---
 
 ## Lenses
-
-![""](images/obscura.jpg)
 
 - Zoom
 - Prime
@@ -26,7 +20,7 @@ Even looking through the viewfind more might be in frame than your brain is focu
 
 ### Field of View
 
-Measure in Focal Length
+Measured in Focal Length
 
 - Normal
 - Wide
@@ -34,10 +28,20 @@ Measure in Focal Length
 
 --
 
-### Image Sensor and Focal Length
+### Image Sensor Size
 
-- 35MM Film is the base 70 years)
+- 35MM Film Size = Full Frame Digital
 - Cropped Sensor
+- Smaller Sensor Wider Depth of Field (more in focus)
+- Full Frame Shallower
+
+![""](images/crop-factor-sensor-size.jpg)
+
+--
+
+### Normal
+
+- 35mm on Full-Frame
 
 --
 
@@ -45,8 +49,7 @@ Measure in Focal Length
 
 - Distortion at edges
 - Fisheye
-- Rectilinear
-
+- Rectilinear Correction
 
 --
 
@@ -54,6 +57,26 @@ Measure in Focal Length
 
 - Introduces Handheld shake,
 - Faster Shutter Speed
+- Compresses depth.
+- Flattering for facial features.
+
+--
+
+### Wide Distortion
+
+![""](images/wide-distortion.jpg)
+
+--
+
+### Wide Depth
+
+![""](images/focal-wide.jpg)
+
+--
+
+### Telephoto Depth
+
+![""](images/focal-tele.jpg)
 
 --
 
@@ -64,20 +87,17 @@ Measure in Focal Length
 
 --
 
-## Characteristic
-
-- Compression of space
-- Distortion
-
-
----
-
-## Depth of Field/Aperture
+## Aperture
 
 - Blurring
 - Sharpness
 
 --
+
+![""](images/sharp-fast.jpg)
+
+--
+
 ## Speed 
 
 Apeture referred to as speed
@@ -86,12 +106,6 @@ Apeture referred to as speed
 
 - High aperture f/22 can introduce softening/defractions
 
---
-
-### Sensor Size
-
-- Smaller Sensor Wider Depth of Field (more in focus)
-- Full Frame Shallower
 
 --
 
@@ -136,6 +150,25 @@ Zoomed in = Larger background more apparent that it's out of focus
 
 - Shoot from the hip/ Live view
 
+
+--
+
+### High Angle
+
+![""](images/perspective-high.jpg)
+
+--
+
+### Low Angle
+
+![""](images/perspective-low.jpg)
+
+--
+
+### Top Down
+
+![""](images/top-down.jpg)
+
 --
 
 ### Simplicity
@@ -144,6 +177,12 @@ Zoomed in = Larger background more apparent that it's out of focus
 - helps define subject (more obvious where the viewer should look)
 - painters add things to a canvas / photographers remove elements from the frame
 - closer is almost always better/simpler
+
+--
+
+### Simple
+
+![""](images/simple.jpg)
 
 ---
 
@@ -178,11 +217,54 @@ Zoomed in = Larger background more apparent that it's out of focus
 - Lines
 - Shapes
 - Repetition
-- Rule of Thirds
-- Perspective
+- Rule of Threes
 - Symmetry
-- Focal length, position and depth
 - Intersections
+
+--
+
+### Lines
+
+- Literal Implied
+- Leading Lines
+
+--
+
+### Shapes
+
+
+
+--
+
+### Rule of Threes
+
+-
+
+--
+
+### Perspective
+
+- Focal Length
+
+--
+
+### Symmetry
+
+- Even balance
+- Viewers Eye Know where to look
+- Good for Square Crops
+
+--
+
+### Symmetry
+
+![""](images/symmetry.jpg)
+
+--
+
+### Intersections
+
+-
 
 ---
 
