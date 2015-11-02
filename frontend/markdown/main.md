@@ -80,6 +80,10 @@ Measured in Focal Length
 
 --
 
+![""](images/telephoto-depth-side-by-side.png)
+
+--
+
 ### Stabilization
 
 - Optical Stabilization (Uses Battery)
@@ -273,21 +277,7 @@ Zoomed in = Larger background more apparent that it's out of focus
 
 --
 
-### Wide Aperture (low f-stop)
 
-- Shallow depth of field
-
-![""](images/small-dof.jpg)
-
---
-
-### Narrow Aperture (high f-stop)
-
-- Wide depth of field
-
-![""](images/large-dof.jpg)
-
---
 
 ### Bokeh
 
