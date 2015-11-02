@@ -103,9 +103,7 @@ Measured in Focal Length
 Apeture referred to as speed
 
 - faster shutter speed due to letting more light in.
-
 - High aperture f/22 can introduce softening/defractions
-
 
 --
 
@@ -147,7 +145,6 @@ Zoomed in = Larger background more apparent that it's out of focus
 - Angle
 - Take boring subject matter and make it interesting
 - Emotional (looking up implies power down opposite)
-
 - Shoot from the hip/ Live view
 
 
