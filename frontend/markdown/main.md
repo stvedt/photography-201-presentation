@@ -138,7 +138,7 @@ Apeture referred to as speed
 
 ### Sharp Detail
 
-- Fast lenses provide great sharpness. f/2.8
+Fast lenses provide great sharpness. f/2.8
 
 ![""](images/sharp-fast.jpg)
 
@@ -162,8 +162,8 @@ f/1.8 from a distance
 
 Level of details across highlights and shadows
 
-- Low Range: If highlights have details then shadows are black.
-- High Range: shadows and highlights both have details.
+- Low: Highlights have details and shadows are black.
+- High: shadows and highlights both have details.
 
 --
 
@@ -213,11 +213,10 @@ Level of details across highlights and shadows
 
 ### Balance
  
- - graphically weight
- - metaphorical signifigance
- - negative space
- - feel
- - direction, entry, exit
+ - Graphically Weight
+ - Metaphorical Signifigance
+ - Negative Space
+ - Direction, Entry, Exit
 
 --
 
@@ -301,10 +300,17 @@ Level of details across highlights and shadows
 
 ### Simplicity
 
-- reduce number of things in your image
-- helps define subject (more obvious where the viewer should look)
-- painters add things to a canvas / photographers remove elements from the frame
-- closer is almost always better/simpler
+- Reduce number of things in your image
+- Helps define subject
+
+--
+
+### Simplicity Philosophy
+
+- Painters add things to a blank canvas
+
+
+“If your pictures aren’t good enough, you’re not close enough.” Robert Capa
 
 --
 
