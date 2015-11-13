@@ -130,6 +130,12 @@ Apeture referred to as speed
 
 --
 
+### Bokeh
+
+![""](images/bokeh.jpg)
+
+--
+
 ### Sharp Detail
 
 - Fast lenses provide great sharpness. f/2.8
@@ -181,7 +187,7 @@ Level of details across highlights and shadows
 
 ### High Dynamic Range
 
-![""](images/eli-hdr.jpg)
+![""](images/elia-hdr.png)
 
 ---
 
@@ -201,12 +207,43 @@ Level of details across highlights and shadows
 
 --
 
+![""](images/jarvis-subject.png)
+
+--
+
 ### Balance
  
  - graphically weight
  - metaphorical signifigance
  - negative space
  - feel
+ - direction, entry, exit
+
+--
+
+![""](images/mikko.png)
+
+--
+
+![""](images/jarvis-balance.png)
+
+--
+
+![""](images/ben-long.jpg)
+
+--
+
+### Entry/Exit
+
+![""](images/jarvis-entry-1.png)
+
+--
+
+![""](images/jarvis-entry-2.png)
+
+--
+
+![""](images/jarvis-entry-3.png)
 
 --
 
@@ -298,21 +335,50 @@ Level of details across highlights and shadows
 
 --
 
+![""](images/lines.jpg)
+
+--
+
+![""](images/lines-2.jpg)
+
+--
+
 ### Shapes
 
+- Abstract objects into geometric shapes
+- Use shadow and light to create shapes
 
+--
+
+![""](images/leuthard-geometry.jpg)
+
+--
+
+![""](images/leuthard-geometry-2.jpg)
+
+--
+
+### Repitition
+
+![""](images/seismographie.jpg)
+
+--
+
+![""](images/repitition.jpg)
 
 --
 
 ### Rule of Threes
 
--
+- Groups of threes are interesting
 
 --
 
-### Perspective
+![""](images/ben-threes.jpg)
 
-- Focal Length
+--
+
+![""](images/threes-2.jpg)
 
 --
 
@@ -324,31 +390,27 @@ Level of details across highlights and shadows
 
 --
 
-### Symmetry
-
 ![""](images/symmetry.jpg)
+
+--
+
+![""](images/symmetry-2.jpg)
 
 --
 
 ### Intersections
 
--
-
----
-
-## Creative Considerations
-
-- Exposure Triangle for Creative Effect
-- Subject/Background
-- Composition
+![""](images/Veniamin-Skorodumov.png)
 
 --
 
+### Bad Intersection
 
+![""](images/bad-intersection.png)
 
-### Bokeh
+---
 
-![""](images/bokeh.jpg)
+## Creative Effects/Decisions
 
 --
 
@@ -366,21 +428,13 @@ Level of details across highlights and shadows
 
 --
 
-### Wide-Angle
+### Framing
 
-![""](images/wide.jpg)
-
---
-
-### Telephoto
-
-![""](images/telephoto.jpg)
+![""](images/leuthard-frame.jpg)
 
 --
 
-### Dynamic Range
-
-![""](images/low-dynamic.jpg)
+![""](images/helene-binet-2.jpg)
 
 ---
 
@@ -394,12 +448,14 @@ How to manage and edit images.
 
 RAW vs. JPG
 
+- More Dynamic Range
+- Ability to change white balance
 - Quality vs. Filesize
-- Many raw file formats, including  K25, KDC, CR2, ERF, MEF, MOS, NEF, ORF, PEF, RW2 and the list goes on.
+- Many raw file formats, including  K25, KDC, CR2, ERF, MEF, MOS, etc.
 
 --
 
-### DNG
+### Use DNG
 
 Adobe's solution to RAW files. Widely seen as the standard RAW format. Conversion from camera specific to DNG possible through Lightroom, Bridge, etc.
 
@@ -441,10 +497,7 @@ Control/lock focus and exposure.
 - VSCOcam
 - Afterlight
 - SlowShutter
-- iOS9 (Manual Controls)
 - Lenstag
-- EyeFi
-
 
 ---
 
@@ -470,8 +523,8 @@ ___
 
 ### Future Classes
 
-- Composition/Creative/Optics
-- Low Light, (HDR, Light Painting, Flash/Studio)
+- Low Light, (HDR, Light Painting)
+- Flash Photography and Off-Camera Lighting
 
 
 
