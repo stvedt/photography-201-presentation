@@ -233,6 +233,29 @@ Level of details across highlights and shadows
 
 --
 
+### Ratios for Balance
+
+- Rule of thirds
+- Golden Ratios
+
+--
+
+### Rulte of Thirds
+
+![""](images/rule-of-thirds-landscape.jpg)
+
+--
+
+![""](images/rule-of-thirds-still-life.jpg)
+
+--
+
+### Golden Triangles
+
+![""](images/golden-triangles.jpg)
+
+--
+
 ### Entry/Exit
 
 ![""](images/jarvis-entry-1.png)
@@ -288,34 +311,6 @@ Level of details across highlights and shadows
 ### Simple
 
 ![""](images/simple.jpg)
-
----
-
-### Finding good photos/subject matter
-
-- Don't need a special location/event
-- More on the photographer than the subject/location
-
---
-
-## Work the shot
-
-- It takes a lot of bad photos to make a good one.
-- Trust your insticts and follow it.
-- Look for/find the shot.
-- Move your feet/pov
-
---
-
-## Practice
-
-- Black and White (Tone, Line and Form)
-- Have a Task at Hand (An Assignment)
-- Back to basics (Geometry, Light as Subject)
-- Perfect Practice Makes Perfect
-- Look at work of other photographers
-
----
 
 ## Geometry
 
@@ -435,6 +430,32 @@ Level of details across highlights and shadows
 --
 
 ![""](images/helene-binet-2.jpg)
+
+---
+
+### Finding good photos/subject matter
+
+- Don't need a special location/event
+- More on the photographer than the subject/location
+
+--
+
+## Work the shot
+
+- It takes a lot of bad photos to make a good one.
+- Trust your insticts and follow it.
+- Look for/find the shot.
+- Move your feet/pov
+
+--
+
+## Practice
+
+- Black and White (Tone, Line and Form)
+- Have a Task at Hand (An Assignment)
+- Back to basics (Geometry, Light as Subject)
+- Perfect Practice Makes Perfect
+- Look at work of other photographers
 
 ---
 
