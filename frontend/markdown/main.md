@@ -53,18 +53,18 @@ Measured in Focal Length
 
 --
 
+### Wide Distortion
+
+![""](images/wide-distortion.jpg)
+
+--
+
 ### Telephoto
 
 - Introduces Handheld shake,
 - Faster Shutter Speed
 - Compresses depth.
 - Flattering for facial features.
-
---
-
-### Wide Distortion
-
-![""](images/wide-distortion.jpg)
 
 --
 
@@ -84,6 +84,28 @@ Measured in Focal Length
 
 --
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MWRncNMEhLw" frameborder="0" allowfullscreen></iframe>
+
+--
+
+### Portrait
+
+![](images/douglas-kirkland.png)
+
+--
+
+### Wide
+
+![](images/portrait-wide.png)
+
+--
+
+### Telephoto
+
+![](images/portrait-tele.png)
+
+--
+
 ### Stabilization
 
 - Optical Stabilization (Uses Battery)
@@ -98,23 +120,68 @@ Measured in Focal Length
 
 --
 
-![""](images/sharp-fast.jpg)
-
---
-
-## Speed 
+### Speed 
 
 Apeture referred to as speed
 
 - faster shutter speed due to letting more light in.
+- f/1.8 wide opening more blurring
 - High aperture f/22 can introduce softening/defractions
 
 --
 
-### Focal Length
+### Sharp Detail
 
-Perceived Depth of Field
-Zoomed in = Larger background more apparent that it's out of focus
+- Fast lenses provide great sharpness. f/2.8
+
+![""](images/sharp-fast.jpg)
+
+--
+
+### Blur
+
+f/1.8 from a distance
+
+![""](images/elena.jpg)
+
+### Blur
+
+f/1.8 from a distance
+
+![""](images/shallow-close.png)
+
+--
+
+## Dynamic Range
+
+Level of details across highlights and shadows
+
+- Low Range: If highlights have details then shadows are black.
+- High Range: shadows and highlights both have details.
+
+--
+
+### Low Dynamic Range
+
+![""](images/henri-range.jpg)
+
+--
+
+### Low Dynamic Range
+
+![""](images/silhouette.jpg)
+
+--
+
+### Bad High Dynamic Range (HDR)
+
+![""](images/bad-hdr.jpg)
+
+--
+
+### High Dynamic Range
+
+![""](images/eli-hdr.jpg)
 
 ---
 
